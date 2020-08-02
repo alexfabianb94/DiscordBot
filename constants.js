@@ -16,9 +16,9 @@ const fanswers = {
     '!jerry': {msg: '', files: ['static/images/jerry.webp']},
     '!perro': {msg: '', files: ['static/images/perro.webp']},
     '!chayanne': {msg: '', files: ['static/images/chayanne.webp']},
-    '!tepillamos': {msg: '', files: ['static/images/tepillamos.webp']},
-    '!ubb': {msg: '', files: ['static/images/ubb.webp']},
-    '!mechones': {msg: '', files: ['static/images/mechones.webp']},
+    '!tepillamos': {msg: '', files: ['static/images/tepillamos.jpg']},
+    '!ubb': {msg: '', files: ['static/images/ubb.jpg']},
+    '!mechones': {msg: '', files: ['static/images/mechones.jpg']},
 }
 
 const tanswers = {
