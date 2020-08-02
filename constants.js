@@ -16,6 +16,9 @@ const fanswers = {
     '!jerry': {msg: '', files: ['static/images/jerry.webp']},
     '!perro': {msg: '', files: ['static/images/perro.webp']},
     '!chayanne': {msg: '', files: ['static/images/chayanne.webp']},
+    '!tepillamos': {msg: '', files: ['static/images/tepillamos.webp']},
+    '!ubb': {msg: '', files: ['static/images/ubb.webp']},
+    '!mechones': {msg: '', files: ['static/images/mechones.webp']},
 }
 
 const tanswers = {
